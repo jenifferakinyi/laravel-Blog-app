@@ -1,4 +1,5 @@
 <h1>simple job listing and finder</h1> 
+<p>This is a simple laravel app where users can list job vacancies</p>
 <h3>Installation</h3>
 1. Git clone:<br>
 git clone https://github.com/jenifferakinyi/laravel-Devjobs.git<br>
