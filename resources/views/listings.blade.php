@@ -1,3 +1,6 @@
+@extends('layout')
+@section('content')
+
 {{-- blade version --}}
 <h1>{{ $heading }}</h1>
 
@@ -9,3 +12,4 @@
 
 <p>{{ $listing['description']}}</p>
 @endforeach
+@endsection
