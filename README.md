@@ -1,7 +1,7 @@
 
-Got it! Here's a revised README file for your Laravel Blog Post Application:
 
-Laravel Blog Post Application
+
+# Laravel Blog Post Application #
 Overview
 This is a simple Laravel Blog Post Application that allows users to create, read, update, and delete blog posts. The app features a basic admin panel for managing posts and supports rich text editing for blog content.
 
